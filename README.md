@@ -34,6 +34,7 @@ print('The number of words: ',d)
 ```
 ### OUTPUT:
 ![output](/Screenshot%202023-07-27%20102112.png)
+![output](/Screenshot%202023-07-27%20102631.png)
 
 
 ## RESULT:
